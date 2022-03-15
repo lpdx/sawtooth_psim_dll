@@ -1,5 +1,5 @@
 # sawtooth_psim_dll
-This sawtooth wave generator is tested in PowerSim v9 64bits and its intended to overrun the issue with the element "Saw-tooth voltage source (grounded)".
+This sawtooth wave generator was tested in PowerSim v9 64bits and its intended to overrun the issue with the element "Saw-tooth voltage source (grounded)".
 
 The sawtooth-wave voltage generator doesn't work properly when the frequency is about 1/10 of the frequency of the simulation.
 
